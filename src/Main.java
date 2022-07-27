@@ -20,7 +20,6 @@ public class Main {
         mentoring.setDescription("Java mentoring description");
         mentoring.setDate(LocalDate.now());
 
-
         System.out.println(firstCourse);
         System.out.println(secondCourse);
     }
