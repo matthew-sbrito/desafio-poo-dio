@@ -1,5 +1,8 @@
 package br.com.dio.desafio.domain;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 public abstract class Content {
 
     protected static final double DEFAULT_XP = 10d;
